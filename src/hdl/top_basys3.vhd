@@ -11,7 +11,8 @@
 --| ---------------------------------------------------------------------------
 --|
 --| FILENAME      : top_basys3.vhd
---| AUTHOR(S)     : Capt Phillip Warner
+--| AUTHOR(S)     : Capt Phillip Warner Me
+
 --| CREATED       : 3/9/2018  MOdified by Capt Dan Johnson (3/30/2020)
 --| DESCRIPTION   : This file implements the top level module for a BASYS 3 to 
 --|					drive the Lab 4 Design Project (Advanced Elevator Controller).
